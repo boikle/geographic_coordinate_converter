@@ -1,0 +1,11 @@
+# Virtual Environment
+env/
+
+# VIM Swap File
+*.swp
+
+# PyCache Directory
+__pycache__/
+
+# PyCharm .idea Directory
+.idea/
