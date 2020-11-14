@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='Geographic Coordinate Converter',
-    url='https://github.com/boikle/geographic_coordinate_converter',
+    url='https://github.com/roikle/geographic_coordinate_converter',
     author='Robert Oikle',
     packages=['geographic_coordinate_converter'],
     install_requires=[],
